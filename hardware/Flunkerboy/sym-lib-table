@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Flunkerboy")(type "KiCad")(uri "${KIPRJMOD}/Flunkerboy.kicad_sym")(options "")(descr ""))
+)

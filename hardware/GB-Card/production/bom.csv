@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,GameBoy_GamePak_DMG-09_P1.50mm_Edge,1,GameBoy_GamePak_DMG-09,
+J2,GB_GBC_1x32,1,GameBoy_GamePak_DMG-09,
+J3,PinHeader_2x16_P2.54mm_Vertical_SMD,1,Conn_02x16_Odd_Even,
