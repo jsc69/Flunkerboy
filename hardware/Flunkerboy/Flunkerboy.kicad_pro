@@ -613,6 +613,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -629,6 +637,10 @@
     [
       "560f5fb2-d2ab-4954-a8f4-77a42c998ddb",
       "Root"
+    ],
+    [
+      "f1b6e375-569a-414b-99eb-37071c940a01",
+      "Eingangsteiler"
     ]
   ],
   "text_variables": {}

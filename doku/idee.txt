@@ -3,3 +3,5 @@ https://www.eleccircuit.com/digital-voltmeter-using-icl7107/
 https://www.ariat-tech.de/blog/Comprehensive-Guide-into-ICL7107-ADC.html
 
 https://www.ti.com/lit/an/snoa592c/snoa592c.pdf?ts=1748695869184&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+https://github.com/Gustavomurta/ESP32-DVM
