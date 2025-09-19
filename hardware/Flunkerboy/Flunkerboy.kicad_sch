@@ -2945,7 +2945,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 83.82) (xy 128.27 83.82)
+			(xy 114.3 83.82) (xy 129.54 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4039,7 +4039,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C653448"
+		(property "LCSC" ""
+			(at 147.32 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part" "C653448"
 			(at 147.32 93.98 0)
 			(effects
 				(font
@@ -4668,7 +4677,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C69335"
+		(property "LCSC" ""
 			(at 241.3 72.39 0)
 			(effects
 				(font
@@ -4678,6 +4687,15 @@
 			)
 		)
 		(property "SOURCED" "ok"
+			(at 241.3 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part" "C69335"
 			(at 241.3 72.39 0)
 			(effects
 				(font
@@ -4971,7 +4989,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C69335"
+		(property "LCSC" ""
 			(at 129.54 107.95 0)
 			(effects
 				(font
@@ -4981,6 +4999,15 @@
 			)
 		)
 		(property "SOURCED" "ok"
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part" "C69335"
 			(at 129.54 107.95 0)
 			(effects
 				(font
@@ -5786,7 +5813,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C69335"
+		(property "LCSC" ""
 			(at 167.64 73.66 0)
 			(effects
 				(font
@@ -5796,6 +5823,15 @@
 			)
 		)
 		(property "SOURCED" "ok"
+			(at 167.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part" "C69335"
 			(at 167.64 73.66 0)
 			(effects
 				(font
@@ -5873,7 +5909,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C69335"
+		(property "LCSC" ""
 			(at 124.46 97.79 0)
 			(effects
 				(font
@@ -5883,6 +5919,15 @@
 			)
 		)
 		(property "SOURCED" "ok"
+			(at 124.46 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part" "C69335"
 			(at 124.46 97.79 0)
 			(effects
 				(font
@@ -5902,6 +5947,48 @@
 				(path "/560f5fb2-d2ab-4954-a8f4-77a42c998ddb"
 					(reference "C13")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 27.94)
+		(size 35.56 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "29c2ed34-f226-4b26-8a38-169b54182192")
+		(property "Sheetname" "DMM 6010"
+			(at 96.52 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DMM_6010.kicad_sch"
+			(at 96.52 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flunkerboy"
+				(path "/560f5fb2-d2ab-4954-a8f4-77a42c998ddb"
+					(page "3")
 				)
 			)
 		)
