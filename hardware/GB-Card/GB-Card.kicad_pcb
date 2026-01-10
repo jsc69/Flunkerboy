@@ -1610,7 +1610,7 @@
 			(uuid "5ec9a488-49a5-406b-a45e-56731a1c87f4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/spank/Nextcloud/GameBoy/3_2_zoll_ILI9341_ESP32/ILI9341_ESP32_GBC_V1/GB_GBC_1x32.step"
+		(model "${KIPRJMOD}/GB_GBC_1x32.step"
 			(offset
 				(xyz -0.5 0 0)
 			)
